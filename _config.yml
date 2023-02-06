@@ -3,7 +3,7 @@ title: askminside.github.io
 email: ""
 description: "Photo Journal"
 url: "https://askminside.github.io"
-baseurl: "/askminside.github.io"
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://askminside.github.io/askminside.github.io/gallery/"  
-  - JOURNAL: "https://askminside.github.io/askminside.github.io/journal/"
-  - ABOUT: "https://askminside.github.io/askminside.github.io/about/"
+  - GALLERY: "https://askminside.github.io/gallery/"  
+  - JOURNAL: "https://askminside.github.io/journal/"
+  - ABOUT: "https://askminside.github.io/about/"
 
 # All translation keys
 translations:
