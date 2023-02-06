@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: askminside.github.io
 email: ""
 description: "Photo Journal"
 url: "https://askminside.github.io"
-baseurl: "/photorama"
+baseurl: "/askminside.github.io"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   askminside.github.io
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://askminside.github.io/photorama/gallery/"  
-  - JOURNAL: "https://askminside.github.io/photorama/journal/"
-  - ABOUT: "https://askminside.github.io/photorama/about/"
+  - GALLERY: "https://askminside.github.io/askminside.github.io/gallery/"  
+  - JOURNAL: "https://askminside.github.io/askminside.github.io/journal/"
+  - ABOUT: "https://askminside.github.io/askminside.github.io/about/"
 
 # All translation keys
 translations:
